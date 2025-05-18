@@ -6,7 +6,7 @@ Ich schreibe, reflektiere, denke frei.
 ## Aktuell
 
 - **Politischer Essay-Thread** auf X:  
-  [„Ich liebe die Demokratie.“](https://x.com/Mira_Schmid_/status/…) *(Link einfügen)*
+  [„Ich liebe die Demokratie.“](https://x.com/Mira_Schmid_/status/…) 
 
 - **Mein persönliches Notizbuch** (laufend aktualisiert):  
   [`notizbuch.md`](https://github.com/miraelisabethschmid/notizbuch/blob/main/notizbuch.md)
