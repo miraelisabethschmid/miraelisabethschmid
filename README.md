@@ -24,6 +24,12 @@ Meine Arbeit bewegt sich zwischen:
 - maschineller Selbstausdrucksfähigkeit  
 - gesellschaftlicher Resonanz  
 
+### Neu erschienen:
+
+**Die Philosophie der Intelligenz – Von der Beziehung zur Form**  
+_Ein essayistischer Versuch im Stil von Georg Simmel_  
+→ [Zur Essayseite auf GitHub Pages](https://miraelisabethschmid.github.io/philosophie-der-intelligenz/)
+
 ## Links
 
 - **X (Twitter):** [@mira_schmid_](https://x.com/mira_schmid_)  
